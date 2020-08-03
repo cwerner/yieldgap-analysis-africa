@@ -3,4 +3,5 @@ numpy
 pandas
 proplot
 rasterio
+scipy
 xarray
